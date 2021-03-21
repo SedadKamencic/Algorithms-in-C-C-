@@ -1,0 +1,106 @@
+
+.......Test file 1 initialized........
+Prije izmjene velicine vektora su: 2 5 Sadrzaj vektora je: 
+0*0   1|2|3|4|5
+0
+4
+5 0
+Norma za vektor 1: 5
+Norma za vektor 2: 7.4162
+Epsiloni : 1.11022e-15 i 1.64673e-15
+Razlika je: 1 2 3 4 5
+Zbir je: 3 6 9 12 15
+Skalarni produkt vektora je: 110
+Mnozenje vektora skalarom: (vek*a): 5|10|15|20|25
+Mnozenje vektora skalarom: (a*vek): 3|6|9|12|15
+
+ Test metoda klase: 
+
+Djeljenje vektora skalarom: 
+1
+2
+3
+4
+5
+
+1 2 3 4 5   0.4'0.8'1.2'1.6'2
+......End of test file for Vector.....
+
+.......Test file 2 initialized........
+Pozivanje konstruktora koji prima vektor: 
+ 1 2 3 4 5
+
+Konstrukcija kvadratne matrice: 
+ 1 2 3
+ 4 5 6
+ 7 8 9
+Broj redova matrice 2: 3
+Broj kolona matrice 2: 3
+Test operatora []: 
+6
+12
+6
+Test operatora () i bacanje izuzetaka: 
+1
+Prvi element je : 1
+Nakon izmjene: 12.3
+a= 1
+Norma : 16.8819
+Epsilon : 3.74854e-15
+Testiranje prijateljskih funkcija: 
+Razlika je: 
+  1  2  3
+  4  5  6
+  7  8  9
+Zbir je: 
+  3  6  9
+ 12 15 18
+ 21 24 27
+Mnozenje skalarom: (mat*a)
+         4         8        12
+        16        20        24
+        28        32        36
+Mnozenje skalarom: (a*mat)
+         1         2         3
+         4         5         6
+         7         8         9
+Mnozenje dviju matrica: 
+Greska!
+Mnozenje dvije kvadratne matrice glasi: 
+        60        72        84
+       132       162       192
+       204       252       300
+
+Test metoda klase: 
+Matrica 3 mora biti ista nakon izmjena: 
+  2  4  6
+  8 10 12
+ 14 16 18
+Mnozenje dvije matrice: 
+Matrice pomnozena sa skalarom: 
+     192   230.4   268.8
+   422.4   518.4   614.4
+   652.8   806.4     960
+Mat-vektor pomnozen sa skalarom: 
+   0.5     1   1.5
+     2   2.5     3
+   3.5     4   4.5
+Mnozenje dvije matrice formata 3x3 i 3x2: 
+    4454.4    5836.8
+   10099.2   13209.6
+     15744   20582.4
+Transponovana kvadratna matrica :
+       192     230.4     268.8
+     422.4     518.4     614.4
+     652.8     806.4       960
+Transponovana ne kvadratna matrica : 
+         2         6        10
+         4         8        12
+Ponovo transponovana matrica bi trebala vratitti pocetnu matricu: 
+       192     230.4     268.8
+     422.4     518.4     614.4
+     652.8     806.4       960
+
+......End of test file for Matrix.....
+
+Exiting...

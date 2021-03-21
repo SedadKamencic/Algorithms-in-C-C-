@@ -1,0 +1,5 @@
+Test brzine umetanja elemenata u hash mapu: 37ms.
+Test brzine pronalazenja elemenata u hash mapu: 5ms.
+Test brzine umetanja elemenata u niz mapu: 2421ms.
+Test brzine pronalazenja elemenata u niz mapu: 2370ms.
+Test brzine umetanja elemenata u binarno stablo mapa: 1634ms.

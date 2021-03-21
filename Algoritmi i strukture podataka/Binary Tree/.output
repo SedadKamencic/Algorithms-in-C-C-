@@ -1,0 +1,9 @@
+Ukupno vrijeme dodavanja elemenata u binarno stablo : 2598ms.
+Ukupno vrijeme dodavanja elemenata u niz mapa :       3462ms.
+Razlika vremena: ------------------------------------ -864ms.
+
+Ukupno vrijeme pristupa postojecim elementima za za binarno stablo: 462ms.
+Ukupno vrijeme pristupa postojecim elementima za za niz mapa:       472ms.
+Razlika vremena: -------------------------------------------------- -10ms.
+
+Binarno stablo je brze zbog svoje strukture koja omogucava brze pristup elementima za razliku od Niz Mapa gdje se svaki put prilikom poziva operatora[] trosi vrijeme na sekvencijalno ispitivanje svakog elementa iz kolekcije na jednakost, te uzmimo u obzir da svaki put kad prekoracimo kapacitet, utrosi se i znacajno vrijeme za prosirenje kapaciteta, te binarno stablo ima i bolju memorijsku iskoristenost.

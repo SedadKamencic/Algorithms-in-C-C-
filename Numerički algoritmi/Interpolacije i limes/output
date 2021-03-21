@@ -1,0 +1,21 @@
+Test interpolacija...
+Test Linearna interpolacija: OK
+Test Polinomijalna interpolacija: OK
+Test Dio po dio interpolacija: OK
+Test Splajn interpolacija: OK
+Test Baricentricna interpolacija: OK
+Test Get Weights: OK
+
+Test izuzetaka...
+Test dio po dio interpolacije na red: OK
+Test Baricentricne interpolacije na red: OK
+Test Polinomial AddPoint na istu tacku: OK
+
+Test Limesa...
+Test sin(x) / x, kad x->0: OK
+Test (exp(x) - 1) / x, kad x->0: OK
+Test ln(1 + x) / x, kad x->0: OK
+Test izuzetaka na pogresne parametre: OK
+Test beskonacnosti: OK
+
+End of testing...

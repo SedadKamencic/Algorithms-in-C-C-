@@ -1,0 +1,10 @@
+Test Vektor Chop: OK
+Test Vector EqualTo: OK
+Test Matrix Chop: OK
+Test Matrix EqualTo: OK
+Test Matrix Det OK
+Test Matrix Friend Det: OK
+Test Matrix LeftDiv: OK
+Test Matrix LeftDiv Vector: OK
+Test Matrix RightDiv Scalar: OK
+Test Matrix RightDiv Matrix: OK

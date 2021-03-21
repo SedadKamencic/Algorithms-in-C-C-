@@ -1,0 +1,5 @@
+Test praznog steka: Nema elementa OK
+Test stek sa svim praznnim vektorima: Nema elementa OK
+Test stek sa nekim praznim vektorima: 1 0 OK
+Test pun stek: 1 1 OK
+Test nije pronadjen element: Nema elementa OK

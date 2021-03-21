@@ -1,0 +1,5 @@
+Test ChebyshevApproximation: OK
+Test TanhSinhIntegration : OK
+Primjer ispravnosti za sin(x), [0,PI] : OK
+Primjer ispravnosti za 1 / sqrt(x), [0,1] : OK
+Primjer ispravnosti za 1 / x, [1,2] : OK

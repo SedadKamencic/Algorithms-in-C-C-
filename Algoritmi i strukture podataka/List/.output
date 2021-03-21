@@ -1,0 +1,12 @@
+Test konstruktor: OK
+Test trenutni: OK
+Test const trenutni: OK
+Test sljedeci: OK
+Test prethodni: OK
+Test Pocetak: OK
+Test Dodaj Iza: OK
+Test Dodaj Ispred: OK
+Test Obrisi: OK
+Test Operator[]: OK
+Test Kopirajuci: OK
+Test Operator Dodjele: OK
